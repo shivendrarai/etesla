@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/etesla/static/css/main.0fac8d59.chunk.css",
+    "main.js": "/etesla/static/js/main.dc027926.chunk.js",
+    "main.js.map": "/etesla/static/js/main.dc027926.chunk.js.map",
+    "runtime-main.js": "/etesla/static/js/runtime-main.fe6f4103.js",
+    "runtime-main.js.map": "/etesla/static/js/runtime-main.fe6f4103.js.map",
+    "static/js/2.039579fb.chunk.js": "/etesla/static/js/2.039579fb.chunk.js",
+    "static/js/2.039579fb.chunk.js.map": "/etesla/static/js/2.039579fb.chunk.js.map",
+    "index.html": "/etesla/index.html",
+    "static/css/main.0fac8d59.chunk.css.map": "/etesla/static/css/main.0fac8d59.chunk.css.map",
+    "static/js/2.039579fb.chunk.js.LICENSE.txt": "/etesla/static/js/2.039579fb.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/etesla/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe6f4103.js",
+    "static/js/2.039579fb.chunk.js",
+    "static/css/main.0fac8d59.chunk.css",
+    "static/js/main.dc027926.chunk.js"
+  ]
+}
